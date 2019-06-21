@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Bemmerse Wiki
 
-You can use the [editor on GitHub](https://github.com/CodeVirgin88/bemmerse_wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Tips for Shooting Vertical Videos
 
-### Markdown
+So you want to record a Vertical video? We'll show you how and sprinkle in some tips and tricks in the process. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why Vertical Videos?
+Vertical videos are more engaging for the mobile users. And most people consume their content on mobile devices. No one wants to drag a huge heavy laptop to their bed...
 
-```markdown
-Syntax highlighted code block
+Based on our research this is especially true for the ASMR community. Our users feel increased connection and engagement with the artist. It's more intimate and therefore also more effective. 
+Basically, our users feel more relaxed after watching a vertical video.
 
-# Header 1
-## Header 2
-### Header 3
+Best part, you can use the vertical videos on all the major social media as they are (natively) supported there - From the likes of Youtube, Facebook and Instagram. So you can bring all the benefits of vertical videos to your community everywhere.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### What are vertical videos? Aspect Ratios
+What is a vertical video? A simple answer would be "a video recorded vertically". And it truly can be that simple.
+Though let's get a bit nerdy here. Vertical video is a video with an aspect ratio between 4:5 and 9:16 (or 16 to 18 as smartphones are getting taller).
 
-**Bold** and _Italic_ and `Code` text
+*show the image*
 
-[Link](url) and ![Image](src)
-```
+We recommend the 9:16 aspect ratio.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How?
+Let's start with some basic settings checks to make sure it'll work. 
 
-### Jekyll Themes
+- Make sure that in your settings you have "auto-rotate" on. 
+- Check the aspect ratio.
+- Record vertically (phone or camera to 90°).
+- In case the auto-rotate didn't work, you can just simply rotate it in any editor or video viewer on your phone or computer.
+- Record in 4k and crop (not recommended).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeVirgin88/bemmerse_wiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- TIP: You can also put two frames on top of each other to offer different angle at a scene and even more immersion.
+ 
+### Extra Tips:
+- Tip: Get your subject (probably you) close to the camera. With vertical video you can create a feeling of more intimate experience which your followers love. 
+- Fill the frame. 
+- Don't move the camera. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
