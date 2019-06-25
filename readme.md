@@ -1,7 +1,4 @@
-## Welcome to Bemmerse ASMR Wiki created by artists for artists: 
-
-
-## Tips for Shooting Vertical Videos by DeniASMRCZ
+# Tips for Shooting Vertical Videos by DeniASMRCZ
 
 So you want to record a Vertical video? We'll show you how and sprinkle in some tips and tricks in the process. 
 
