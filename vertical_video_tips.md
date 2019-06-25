@@ -1,7 +1,7 @@
-## Welcome to Bemmerse Wiki
+## Welcome to Bemmerse ASMR Wiki created by artists for artists: 
 
 
-##  Tips for Shooting Vertical Videos
+## Tips for Shooting Vertical Videos by DeniASMRCZ
 
 So you want to record a Vertical video? We'll show you how and sprinkle in some tips and tricks in the process. 
 
@@ -11,10 +11,10 @@ Vertical videos are more engaging for the mobile users. And most people consume 
 Based on our research this is especially true for the ASMR community. Our users feel increased connection and engagement with the artist. It's more intimate and therefore also more effective. 
 Basically, our users feel more relaxed after watching a vertical video.
 
-Best part, you can use the vertical videos on all the major social media as they are (natively) supported there - From the likes of Youtube, Facebook and Instagram. So you can bring all the benefits of vertical videos to your community everywhere.
+Best part, you can use the vertical videos on all the major social media as they are (natively) supported there - from the likes of Youtube, Facebook and Instagram. So you can bring all the benefits of vertical videos to your community everywhere.
 
 
-### What are vertical videos? Aspect Ratios
+### What are vertical videos? (Aspect Ratio)
 What is a vertical video? A simple answer would be "a video recorded vertically". And it truly can be that simple.
 Though let's get a bit nerdy here. Vertical video is a video with an aspect ratio between 4:5 and 9:16 (or 16 to 18 as smartphones are getting taller).
 
@@ -34,7 +34,7 @@ Let's start with some basic settings checks to make sure it'll work.
 - TIP: You can also put two frames on top of each other to offer different angle at a scene and even more immersion.
  
 ### Extra Tips:
-- Tip: Get your subject (probably you) close to the camera. With vertical video you can create a feeling of more intimate experience which your followers love. 
+- Get your subject (probably you) close to the camera. With vertical video you can create a feeling of more intimate experience which your followers love. 
 - Fill the frame. 
 - Don't move the camera. 
 
