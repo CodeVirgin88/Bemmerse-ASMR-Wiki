@@ -48,7 +48,7 @@ If you make original videos when you start your channel then less people might f
 
 It is not a rule that only good quality videos get attention. If you have a working microphone on your headphones then go ahead and use it – as long you like the sound of course. If you are thinking of buying a new mic then you don’t have to buy the most expensive one. Just find one which sounds good to you or simply use what you have.
 
-There are tonnes of artists who didn’t buy an expensive microphone and have lots of subscribers. What is more important is the camera. You don’t want to have an orange pixelated face during a role-play or when you are focusing on an object you are tapping on.
+There are tons of artists who didn’t buy an expensive microphone and have lots of subscribers. What is more important is the camera. You don’t want to have an orange pixelated face during a role-play or when you are focusing on an object you are tapping on.
 
 ### 3) Focus on details
 
